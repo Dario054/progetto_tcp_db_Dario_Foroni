@@ -1,0 +1,4 @@
+socket
+facilities
+mysql.connector
+threading
